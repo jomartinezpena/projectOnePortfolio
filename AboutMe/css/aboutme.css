@@ -12,7 +12,7 @@ body{
  
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
 
 }
@@ -43,6 +43,7 @@ h1 {
   border-radius: 50px;
   padding: 7px;
 }
+
 nav{
   text-align: center;
   word-spacing: 200px;
@@ -54,7 +55,6 @@ nav{
 
 }
 
-
 footer {
   background-color: rgb(206, 187, 163);
   border: 20px;
@@ -65,8 +65,33 @@ footer {
   font-size:20px;
 }
 
+img{ 
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  display: block;
+
+  margin-top: 10px;
+  height: 30%;
+  width: 30%;
+}
 
 
+
+p {
+  color: black;
+  border: 2px dotted black; 
+
+
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+
+  font-size: 20px;
+  
+}
 
 
 
